@@ -5,7 +5,7 @@
 
 The  purpose of this application is to provide a text-based mode of talking with a Trans Lifeline volunteer operator, an alternative to a voice phone call.
 
-# MVP:
+### MVP:
 Session:
 * Messages for a single chat session are rendered in chat window
 * Messages are time-stamped and attached to operator or chatter
@@ -27,7 +27,7 @@ Chatter:
 * Can type message and send, and see message in window
 * Chatter can tell that the operator is listening
 
-## Built Using:
+### Built Using:
 
 * React
 * Javascript
@@ -50,8 +50,10 @@ clone this repository
 npm init
 npm install
 ```
-Future Enhancements:
+### Future Enhancements:
 * Chatter can be in a chat queue and know their place in queue
+* Chatter can add a chat avatar
+* Operator can add a chat avatar
 * Chatter and Operator can switch to a phone call.
 * Chatter can see helpful information while waiting to chat
 * Chatter and operator can see when the other person is typing

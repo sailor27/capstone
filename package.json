@@ -1,0 +1,41 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "The  purpose of this application is to provide a text-based mode of talking with a Trans Lifeline volunteer operator, an alternative to a voice phone call.",
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router-dom": "^4.2.2",
+    "styled-jsx": "^2.2.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^4.18.1",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-react": "^7.7.0",
+    "file-loader": "^1.1.6",
+    "html-webpack-plugin": "^2.29.0",
+    "react-hot-loader": "^3.0.0-beta.7",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.4.0",
+    "webpack-dev-server": "^2.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sailor27/capstone.git"
+  },
+  "author": "Sailor Winkelman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sailor27/capstone/issues"
+  },
+  "homepage": "https://github.com/sailor27/capstone#readme"
+}

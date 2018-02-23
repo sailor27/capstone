@@ -6,11 +6,11 @@
 The  purpose of this application is to provide a text-based mode of talking with a Trans Lifeline volunteer operator, an alternative to a voice phone call.
 
 ### MVP:
-Session:
+**Session:**
 * Messages for a single chat session are rendered in chat window
 * Messages are time-stamped and attached to operator or chatter
 * Operator and chatter’s messages are distinguishable from eachother and appear in chronological order
-Operator:
+**Operator:**
 * Can see sessions to start with time requested
 * Can initiate session with chatter
 * Can type message and send, and see message in window
@@ -18,7 +18,7 @@ Operator:
 * Can compose notes for chat session
 * Can end session
 * Has state of : on call or off call
-Chatter:
+**Chatter:**
 * Can see chat how to before starting
 * Can place a chat for operator to answer
 * Can see when they are connected with an operator

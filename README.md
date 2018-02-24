@@ -27,6 +27,19 @@ The  purpose of this application is to provide a text-based mode of talking with
 * Can type message and send, and see message in window
 * Chatter can tell that the operator is listening
 
+## Static Mock Up:
+Note: You could also open the attached sketch file "assets/sketch files/MVP mock.sketch" and view both pages if your computer has Sketch App installed.
+![alt text](src/assets/images/Chatter1.png)
+![alt text](src/assets/images/Chatter2.png)
+![alt text](src/assets/images/Operator1.png)
+![alt text](src/assets/images/Operator2.png)
+
+## Static Mock Up with Components Labeled:
+![alt text](src/assets/images/Chatter1L.png)
+![alt text](src/assets/images/Chatter2L.png)
+![alt text](src/assets/images/Operator1L.png)
+![alt text](src/assets/images/Operator2L.png)
+
 ### Built Using:
 
 * React
@@ -43,7 +56,6 @@ The  purpose of this application is to provide a text-based mode of talking with
 ## Installation Instructions
 in the terminal:
 ```
-
 npm install webpack@3.4.0 webpack-dev-server@2.5.0 eslint eslint-plugin-react -g
 
 clone this repository

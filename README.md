@@ -88,7 +88,7 @@ Future Enhancements Required Tools:
 **Sailor Winkelman** - [GitHub](https://github.com/sailor27) | [LinkedIn](https://www.linkedin.com/in/sailor-winkelman-62429152)
 
 ## Component Tree Visual
-![alt text](assets/images/component-tree.png)
+![alt text](assets/images/ComponentTree.png)
 
 ## Issues/Bugs 🐛
 **I am struggling with understanding how to build my component tree.**

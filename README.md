@@ -10,6 +10,7 @@ The  purpose of this application is to provide a text-based mode of talking with
 * Messages for a single chat session are rendered in chat window
 * Messages are time-stamped and attached to operator or chatter
 * Operator and chatter’s messages are distinguishable from eachother and appear in chronological order
+
 **Operator:**
 * Can see sessions to start with time requested
 * Can initiate session with chatter
@@ -18,6 +19,7 @@ The  purpose of this application is to provide a text-based mode of talking with
 * Can compose notes for chat session
 * Can end session
 * Has state of : on call or off call
+
 **Chatter:**
 * Can see chat how to before starting
 * Can place a chat for operator to answer
